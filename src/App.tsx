@@ -14,7 +14,7 @@ const App = () => {
           position: "absolute",
         }}
       >
-        Minutetag Challenge
+        Minutentag Challenge
       </h1>
 
       <div
