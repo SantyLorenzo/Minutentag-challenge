@@ -1,4 +1,4 @@
-# Minutetag-challenge
+# Minutentag-challenge
 
 To launch the project run the following command
 `npm install && npm run dev`
